@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/Foto-de-Perfil-Ayano.png" width="180" alt="Ayano: VTuber de cabelo castanho, pele parda e camiseta de dev" />
+  <img src="./assets/Foto-de-Perfil-Ayano-Neon.png" width="180" alt="Ayano: VTuber de cabelo castanho, pele parda e camiseta de dev" />
 
   <h1>Oi, eu sou o Ayano.</h1>
   <p><strong>VTuber · Desenvolvimento · Linux · Games</strong></p>
